@@ -1,6 +1,8 @@
-ID: 1 | Nama: mie ayam | Qty: 2 | Harga: 10000.00 | Total: 20000.00
-ID: buku | Nama: 2 | Qty: 2000 | Harga: 2000.00 | Total: 4000000.00
-ID: hp | Nama:  | Qty: 2 | Harga: 1000.00 | Total: 2000.00
-ID: 4 | Nama: komputer | Qty: 3 | Harga: 20000000.00 | Total: 60000000.00
+Sales Report
+Generated at: 14-12-2025 14:06
+-------------------------
+ID         Item                      Qty        Price        Total
+-----------------------------------------------------------------------
 
-Total Semua Transaksi: Rp 6.4022E7
+-----------------------------------------------------------------------
+Grand total = 0
